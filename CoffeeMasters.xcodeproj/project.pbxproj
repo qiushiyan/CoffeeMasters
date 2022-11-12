@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28ABB46D291F1A9400E55693 /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28ABB46C291F1A9400E55693 /* Offer.swift */; };
+		28ABB46F291F2EEA00E55693 /* OffersPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28ABB46E291F2EEA00E55693 /* OffersPage.swift */; };
 		28F78010291EF794002C639D /* CoffeeMastersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F7800F291EF794002C639D /* CoffeeMastersApp.swift */; };
 		28F78012291EF794002C639D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F78011291EF794002C639D /* ContentView.swift */; };
 		28F78014291EF795002C639D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28F78013291EF795002C639D /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		28ABB46C291F1A9400E55693 /* Offer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer.swift; sourceTree = "<group>"; };
+		28ABB46E291F2EEA00E55693 /* OffersPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffersPage.swift; sourceTree = "<group>"; };
 		28F7800C291EF794002C639D /* CoffeeMasters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoffeeMasters.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28F7800F291EF794002C639D /* CoffeeMastersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeMastersApp.swift; sourceTree = "<group>"; };
 		28F78011291EF794002C639D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 			children = (
 				28F7800F291EF794002C639D /* CoffeeMastersApp.swift */,
 				28F78011291EF794002C639D /* ContentView.swift */,
+				28ABB46C291F1A9400E55693 /* Offer.swift */,
+				28ABB46E291F2EEA00E55693 /* OffersPage.swift */,
 				28F78013291EF795002C639D /* Assets.xcassets */,
 				28F78015291EF795002C639D /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28ABB46D291F1A9400E55693 /* Offer.swift in Sources */,
+				28ABB46F291F2EEA00E55693 /* OffersPage.swift in Sources */,
 				28F78012291EF794002C639D /* ContentView.swift in Sources */,
 				28F78010291EF794002C639D /* CoffeeMastersApp.swift in Sources */,
 			);
